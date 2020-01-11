@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPSC.PlenoSoftware.Financial.FII.Core", "MPSC.PlenoSoftware.Financial.FII.Core\MPSC.PlenoSoftware.Financial.FII.Core.csproj", "{D119FA96-0A26-44BD-B080-ED99E637206D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPSC.PlanoSoftware.FInancial.FII.Core.Tests", "MPSC.PlanoSoftware.FInancial.FII.Core.Tests\MPSC.PlanoSoftware.FInancial.FII.Core.Tests.csproj", "{4A1DE8D2-1689-46A6-A637-059F9406F56B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D119FA96-0A26-44BD-B080-ED99E637206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D119FA96-0A26-44BD-B080-ED99E637206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D119FA96-0A26-44BD-B080-ED99E637206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D119FA96-0A26-44BD-B080-ED99E637206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1DE8D2-1689-46A6-A637-059F9406F56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1DE8D2-1689-46A6-A637-059F9406F56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1DE8D2-1689-46A6-A637-059F9406F56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1DE8D2-1689-46A6-A637-059F9406F56B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B85AE47-FD73-483E-A865-096E75A5A8B0}
+	EndGlobalSection
+EndGlobal
